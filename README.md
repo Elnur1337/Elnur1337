@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elnur1337
+- 👋 Hi, I’m Elnur Bjelic
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
