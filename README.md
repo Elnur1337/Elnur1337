@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elnur Bjelic
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently building my portfolio
 - 💞️ I’m looking to collaborate on ...
 - 📫 elnur.bjelic1337@gmail.com / @elnurbjelic
 
