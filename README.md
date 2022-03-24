@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Elnur Bjelic
 - 👀 I’m interested in web development
 - 🌱 I’m currently building my portfolio
-- 💞️ I’m looking to collaborate on ...
-- 📫 elnur.bjelic1337@gmail.com / @elnurbjelic
+- 📫 elnur.bjelic1337@gmail.com
 
 <!---
 Elnur1337/Elnur1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
